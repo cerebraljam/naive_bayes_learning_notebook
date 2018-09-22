@@ -515,8 +515,3 @@ for user in users:
     Probability that our user is a seller is: 0.000%
     
 
-
-
-```python
-
-```
