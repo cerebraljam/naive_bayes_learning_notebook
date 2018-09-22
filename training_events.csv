@@ -1,0 +1,148 @@
+user,action
+buyer,login
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,buy
+buyer,search
+buyer,search
+buyer,view
+buyer,view
+buyer,buy
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,buy
+buyer,view
+buyer,buy
+buyer,login
+buyer,address change
+buyer,search
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,buy
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,buy
+buyer,logout
+buyer,login
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,buy
+buyer,search
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,buy
+buyer,login fail
+buyer,login
+buyer,search
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,buy
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+buyer,buy
+buyer,search
+buyer,view
+buyer,view
+buyer,view
+buyer,view
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login
+fraudster,search
+fraudster,search
+buyer,sell
+fraudster,view
+fraudster,view
+fraudster,view
+fraudster,sell
+fraudster,sell
+fraudster,sell
+fraudster,sell
+fraudster,sell
+fraudster,view
+fraudster,buy
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login
+fraudster,address change
+fraudster,buy
+fraudster,buy
+fraudster,logout
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login
+fraudster,address change
+fraudster,buy
+fraudster,logout
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login fail
+fraudster,login
+fraudster,address change
+fraudster,buy
+fraudster,logout
+seller,login
+seller,address change
+seller,search
+seller,view
+seller,sell
+seller,sell
+seller,sell
+seller,view
+seller,search
+seller,view
+seller,sell
+seller,view
+seller,sell
+seller,sell
+seller,view
+seller,logout
+seller,login fail
+seller,login
+seller,search
+seller,sell
+seller,sell
+seller,sell
+seller,view
+seller,search
+seller,view
+seller,view
+seller,view
+seller,sell
+seller,sell
+seller,sell
+seller,view
+seller,buy
